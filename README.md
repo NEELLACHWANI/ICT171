@@ -47,6 +47,8 @@ To embed a video in GitHub (if supported):
 
 
 ---
+[📄 View Report (PDF)](./report.pdf)
+
 
 ## ✅ Output
 
