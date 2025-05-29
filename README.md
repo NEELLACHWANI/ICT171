@@ -35,17 +35,12 @@ This uses key-based authentication for secure access.
 
 ## 🎩 Demo Video
 
-https://user-images.githubusercontent.com/your-user-id/demoVideo.mp4  
-*(Note: Replace this line with GitHub’s video hosting or embed instructions if needed)*
-
 To embed a video in GitHub (if supported):
 
-```html
 <video width="720" controls>
   <source src="demoVideo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-```
 
 Make sure `demoVideo.mp4` is uploaded to your repository for the above tag to work.
 
