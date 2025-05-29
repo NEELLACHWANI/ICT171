@@ -41,8 +41,10 @@ To embed a video in GitHub (if supported):
   <source src="demoVideo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+## 📽️ Demo Video
 
-Make sure `demoVideo.mp4` is uploaded to your repository for the above tag to work.
+[▶️ Watch Demo Video](./demoVideo.mp4)
+
 
 ---
 
