@@ -66,6 +66,6 @@ This confirms that the server is up and running correctly on AWS EC2.
 
 ## 🗓️ Submission Details
 
-**Student Name:**  
-**Student ID:**  
-**Date of Submission:**
+**Student Name: Neel Kamlesh Lachwani**  
+**Student ID: 35071098**  
+**Date of Submission: 05 June 2025**
