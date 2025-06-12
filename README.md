@@ -1,71 +1,54 @@
-# ICT171 Cloud Server Project
+# BlogsWorld
 
-This project demonstrates the deployment of a web server on an AWS EC2 instance using Amazon Linux. It involves launching a virtual server, connecting via SSH, installing and configuring the Apache HTTP server, and verifying successful web hosting.
+A modern, responsive blog website created by Neel Kamlesh Lachwani. This project showcases a clean and professional design with three main pages: Home, About, and Contact.
 
-## 📁 GitHub Repository
+## Features
 
-[https://github.com/NEELLACHWANI/ICT171](https://github.com/NEELLACHWANI/ICT171)
+- Responsive design that works on all devices
+- Modern and clean user interface
+- Mobile-friendly navigation
+- Contact form with validation
+- Smooth animations and transitions
+- Social media integration
+- Blog post cards with hover effects
 
-## 🌐 Live Server
+## Technologies Used
 
-[http://3.27.234.91/](http://3.27.234.91/)
+- HTML5
+- CSS3 (with Flexbox and Grid)
+- JavaScript (ES6+)
+- Font Awesome Icons
 
-## 🚀 EC2 Instance Setup
+## Pages
 
-- Instance launched with a key pair for SSH access.
-- Apache installed using:
+1. **Home Page**
+   - Hero section with welcome message
+   - Featured blog posts
+   - Responsive grid layout
 
-  ```bash
-  sudo yum install httpd -y
-  ```
+2. **About Page**
+   - Information about the blog
+   - Developer profile
+   - Mission statement
 
-- Apache service started and enabled.
-- Custom message edited in `/var/www/html/index.html`.
-- Port 80 configured for HTTP access in EC2 Security Group.
+3. **Contact Page**
+   - Contact form
+   - Contact information
+   - Social media links
 
-## 🔐 SSH Connection
+## Setup
 
-SSH into the EC2 instance using the command:
+1. Clone the repository
+2. Open `index.html` in your web browser
+3. No additional dependencies required
 
-```bash
-ssh -i "connectKey.pem" ec2-user@ec2-3-27-234-91.ap-southeast-2.compute.amazonaws.com
-```
+## Browser Support
 
-This uses key-based authentication for secure access.
+- Chrome (latest)
+- Firefox (latest)
+- Safari (latest)
+- Edge (latest)
 
-## 🎩 Demo Video
+## Copyright
 
-To embed a video in GitHub (if supported):
-
-<video width="720" controls>
-  <source src="demoVideo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-## 📽️ Demo Video
-
-[▶️ Watch Demo Video](./demoVideo.mp4)
-
-
----
-[📄 View Report (PDF)](./report.pdf)
-
-
-## ✅ Output
-
-- Successful setup and configuration of a web server.
-- Public IP accessible showing the message:
-
-  ```
-  ICT171 Server is ON!
-  Greetings from server (Neel)
-  ```
-
-This confirms that the server is up and running correctly on AWS EC2.
-
----
-
-## 🗓️ Submission Details
-
-**Student Name: Neel Kamlesh Lachwani**  
-**Student ID: 35071098**  
-**Date of Submission: 05 June 2025**
+© 2025 BlogsWorld. Developed by Neel Kamlesh Lachwani. All rights reserved. 
