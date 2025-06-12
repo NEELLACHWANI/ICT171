@@ -48,7 +48,8 @@ A modern, responsive blog website created by Neel Kamlesh Lachwani. This project
 - Firefox (latest)
 - Safari (latest)
 - Edge (latest)
-
+-- Student Id: 35071098
+- Student Name: Neel Kamlesh Lachwani
 ## Copyright
 
 © 2025 BlogsWorld. Developed by Neel Kamlesh Lachwani. All rights reserved. 
